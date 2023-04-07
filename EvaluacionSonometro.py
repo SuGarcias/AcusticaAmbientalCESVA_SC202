@@ -146,7 +146,7 @@ resultats['Kf'] = Kf
 ## Kt:
 # Lt des de 20Hz a 10KHz
 LT = []
-LT.append(0)#20KHz
+LT.append(0)#20Hz
 claves = ['L TO_20 t','L TO_25 t', 'L TO_31,5 t', 'L TO_40 t', 'L TO_50 t', 'L TO_63 t', 'L TO_80 t', 'L TO_100 t', 'L TO_125 t', 'L TO_160 t', 'L TO_200 t', 'L TO_250 t', 'L TO_315 t', 'L TO_400 t', 'L TO_500 t', 'L TO_630 t', 'L TO_800 t', 'L TO_1k t', 'L TO_1k25 t', 'L TO_1k6 t', 'L TO_2k t', 'L TO_2k5 t', 'L TO_3k15 t', 'L TO_4k t', 'L TO_5k t', 'L TO_6k3 t', 'L TO_8k t', 'L TO_10k t']
 
 for i in range(0,(len(claves)-2)):
