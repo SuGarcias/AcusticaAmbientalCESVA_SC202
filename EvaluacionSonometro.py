@@ -127,7 +127,7 @@ else:                                   #Umbral
     ax.set_ylim(bottom=-10)  # Establece el límite inferior en -10
 
 
-    plt.show()
+   # plt.show()
 
     #LB = nivel por encima del umbral auditivo (<160 Hz) calculado por tercios de octava 
     LB = 10*np.log10(10**(0.1*Lb20)+10**(0.1*Lb25)+10**(0.1*Lb31_5)+10**(0.1*Lb40)+10**(0.1*Lb50)+10**(0.1*Lb63)+10**(0.1*Lb80)+10**(0.1*Lb100)+10**(0.1*Lb125)+10**(0.1*Lb160))
