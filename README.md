@@ -16,6 +16,6 @@ El segon objectiu rau en la part dels càlculs, on s’implementarà un programa
 La mesura es va dur a terme durant la tarda del dimecres 22 de març, a un metre i mig de la façana del pis d’enfront de l’escola Ramón i Cajal De Terrassa.
 Es van fer varies mesures a les 15:00, 15:05, 16:15, 16:30, 16:35.
 
-# Els procediments, resultats i conclusions estàn a l'arxiu pdf adjuntat en aquest repositòri.
+# Els procediments, resultats i conclusions estàn a l'arxiu pdf adjuntat en aquest repositori.
 
 
